@@ -18,6 +18,7 @@ def jeu(stat,pseudo):
 def info():
     print("Jeu développer par divin_hunter le 15 Avril 2026.")
     print("Titre: Monde des dieux")
+    print("Version: 0.0")
 
 def initialisation_profil():
     '''
